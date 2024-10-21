@@ -13,6 +13,6 @@ Then you could add a link to it inside `<nav>`:
 
 ```
 https://habr.com/ru/companies/first/articles/653771/
-
 https://github.com/cadars/john-doe
+https://john-doe.neocities.org/
 ```
