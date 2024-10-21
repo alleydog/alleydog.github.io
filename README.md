@@ -1,6 +1,4 @@
-https://github.com/cadars/john-doe
-
-https://habr.com/ru/companies/first/articles/653771/
+Demo: https://github.com/cadars/john-doe
 
 A website in a single HTML file. It simply uses the `#anchor` suffix and the `:target` CSS selector to show and hide pages/content.
 
@@ -14,3 +12,5 @@ Then you could add a link to it inside `<nav>`:
 ```html
 <a href="#contact">Contact</a>
 ```
+
+See: https://habr.com/ru/companies/first/articles/653771/
