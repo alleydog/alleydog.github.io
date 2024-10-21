@@ -1,3 +1,10 @@
+[https://john-doe.neocities.org/](https://john-doe.neocities.org/)
+
+[https://github.com/cadars/john-doe]
+
+[https://habr.com/ru/companies/first/articles/653771/]
+
+
 A website in a single HTML file. It simply uses the `#anchor` suffix and the `:target` CSS selector to show and hide pages/content.
 
 To create a new page, add a `<section>` with a unique `id`:
@@ -10,9 +17,3 @@ Then you could add a link to it inside `<nav>`:
 ```html
 <a href="#contact">Contact</a>
 ```
-
-https://habr.com/ru/companies/first/articles/653771/
-
-https://github.com/cadars/john-doe
-
-https://john-doe.neocities.org/
